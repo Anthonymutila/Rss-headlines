@@ -10,7 +10,7 @@ from flask import render_template
 app = Flask(__name__)
 
 Defaults = {
-    "publication": 'diggers.news',
+    "publication": 'Lusakatimes',
     "city": 'Lusaka',
     "currency_from": 'USD',
     "currency_to": 'ZMW',
